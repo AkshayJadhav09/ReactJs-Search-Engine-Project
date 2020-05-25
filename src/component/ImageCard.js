@@ -33,4 +33,4 @@ class ImageCard extends React.Component{
 }
 
 
-export default ImageCard
+export default ImageCard;
